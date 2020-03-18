@@ -2,4 +2,4 @@
 **Example image**
 ![image](images/url.jpg)
 
-In this case, `https://google.com` is shortened to `https://domain.xyz/FGO3bDc1` and/or `https://domain.xyz/FGO3bDc1` now redirects `https://google.com`
+In this case, `https://google.com` is shortened to `https://domain.xyz/FGO3bDc1` and/or `https://domain.xyz/FGO3bDc1` now redirects to `https://google.com`
